@@ -312,7 +312,7 @@ Los `traits` se tratan con detalle [en otra página](traits.html).
 
 ## Método principal (Main Method)
 
-El método principal (main) es el punto donde comienza la ejecución de un programa en Scala. La máquina virtual de java (_Java Virtual Machine_ or JVM) requiere, para ejecutar un código Scala, que éste tenga un método principal llamado `main` cuyo único parámetro sea un arrray de Strings.
+El método principal (main) es el punto donde comienza la ejecución de un programa en Scala. La máquina virtual de java (_Java Virtual Machine_ or JVM) requiere, para ejecutar un código Scala, que éste tenga un método principal llamado `main` cuyo único parámetro sea un array de Strings.
 
 Usando un objeto, puedes definir el método principal de la siguiente forma:
 
