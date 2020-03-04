@@ -6,8 +6,8 @@ partof: scala-tour
 num: 24
 language: es
 
-next-page: upper-type-bounds
-previous-page: regular-expression-patterns
+next-page: tuples
+previous-page: classes
 ---
 
 _Nota de traducción: La palabra `trait` en inglés puede traducirse literalmente como `rasgo` o `caracteristica`. Preferimos la designación original trait por ser una característica muy natural de Scala._
