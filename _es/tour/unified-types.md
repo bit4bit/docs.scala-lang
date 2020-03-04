@@ -6,7 +6,7 @@ partof: scala-tour
 num: 30
 language: es
 
-next-page: variances
+next-page: classes
 previous-page: type-inference
 ---
 
